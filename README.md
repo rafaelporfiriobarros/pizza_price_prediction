@@ -1,1 +1,1 @@
-# pizza_price_prediction
+# Pizza Price Prediction - EDA / ML
